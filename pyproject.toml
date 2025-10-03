@@ -1,0 +1,15 @@
+[project]
+name = "langobserve"
+version = "0.1.0"
+description = "langsmith speed-run"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.30",
+    "langchain-openai>=0.3.34",
+    "langchain-tavily>=0.2.11",
+    "langfuse>=3.6.0",
+    "langgraph>=0.6.8",
+    "python-dotenv>=1.1.1"
+]
