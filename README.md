@@ -20,3 +20,5 @@ You can use both LangSmith and Langfuse simultaneously to get:
 ### Install Dependencies
 ```bash
 pip install langchain langchain-openai langchain-tavily langgraph langfuse langsmith python-dotenv
+
+![Demo](rec.gif)
